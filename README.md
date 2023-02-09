@@ -18,4 +18,4 @@ Fan edit creator: SableSteel, and many others
 Run `pip install -r requirements.txt` to install dependencies. 
 
 ### Running game
-Run `python3 main.py`. If python3 does not exist try running `python main.py` instead.
+Run `python main.py`. If python3 does not exist try running `python main.py` instead.
